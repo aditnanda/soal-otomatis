@@ -1,11 +1,9 @@
 # Project Title
 
-User Status API
-
+Generate Pemilihan Soal Otomatis
 
 ## Tutorial
 
-[Tutorial Step by Step: Membuat Autentikasi JWT pada RESTful API dengan Express.js, Sequelize.js](https://medium.com/@nico26deo)
 
     1. npm install
     2. sequelize init
